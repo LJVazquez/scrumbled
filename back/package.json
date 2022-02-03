@@ -1,4 +1,28 @@
 {
+<<<<<<< HEAD
+  "name": "scrumbled-back",
+  "version": "1.0.0",
+  "description": "scrumbled back end",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.8.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
+    "jest": "^27.4.7",
+    "nodemon": "^2.0.15",
+    "prettier": "^2.5.1"
+  }
+=======
 	"name": "scrumbled-back",
 	"version": "1.0.0",
 	"description": "scrumbled back end",
@@ -20,4 +44,5 @@
 		"nodemon": "^2.0.15",
 		"prettier": "^2.5.1"
 	}
+>>>>>>> c49e7444972f95e5f4c7d81a14698924115e3993
 }
